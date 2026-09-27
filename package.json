@@ -1,0 +1,10 @@
+{
+  "name": "resume-expert",
+  "version": "1.0.0",
+  "private": true,
+  "description": "基于目标岗位 JD 的简历优化 Agent",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
